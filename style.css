@@ -56,7 +56,9 @@ button{
 }
 
 
-
+.content{
+    overflow: hidden;
+}
 
 /* navbar styling */
 header{
